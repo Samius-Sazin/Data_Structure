@@ -16,7 +16,7 @@ void Add_FRONT(node *tail);
 node* Add_LAST(node *tail);
 node* Add_MID(node *tail);
 
-void Delete_FIRST();
+void Delete_FIRST(node *tail);
 node* Delete_LAST(node *tail);
 node* Delete_MIDDLE();
 
