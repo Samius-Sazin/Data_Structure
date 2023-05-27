@@ -39,9 +39,6 @@ int main()
     printf("\nPostorder : ");
     print_postorder(ROOT);
 
-    printf("\nLevel-order : ");
-    print_Level_order(ROOT);
-
     return 0;
 }
 
